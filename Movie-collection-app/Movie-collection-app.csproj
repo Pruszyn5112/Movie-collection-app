@@ -7,4 +7,12 @@
     <RootNamespace>Movie_collection_app</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\Movies\" />
+    <Folder Include="Models\ViewModels\" />
+    <Folder Include="Models\StaticDetails\" />
+    <Folder Include="Models\System\" />
+    <Folder Include="Models\Users\" />
+  </ItemGroup>
+
 </Project>
